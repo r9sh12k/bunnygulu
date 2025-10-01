@@ -8,7 +8,7 @@ One year ago, you walked into my life and everything changed. You brought color 
 
 Every moment with you feels like a beautiful dream that I never want to wake up from. Your smile lights up even the darkest days, and your love gives me strength I never knew I had.
 
-Thank you for being my partner, my best friend, and my greatest adventure. Here's to many more years of love, laughter, and creating beautiful memories together.
+Thank you for being my partner, my best friend, and my greatest cheerleader. Here's to many more years of love, laughter, and creating beautiful memories together.
 
 With all my love,
 Forever yours ❤️`;
