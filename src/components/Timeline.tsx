@@ -3,7 +3,7 @@ import { Calendar, MapPin, Heart, Camera, Gift } from 'lucide-react';
 import { useState } from 'react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import sukhna from '../assets/timeline/0.jpg'
-import kasuali from '../assets/timeline/1.jpg'
+import kasuali from '../assets/timeline/kasauli.jpg'
 import zinnia from '../assets/timeline/3.jpg'
 // import cove from '../assets/timeline/2.jpg'
 import kasol from '../assets/timeline/4.jpg'
@@ -43,7 +43,7 @@ const timelineEvents = [
     image: kasol
   },
   {
-    date: "23 September 2023",
+    date: "23rd September",
     title: "Your Birthday 🎂",
     description: "Celebrating the most special day of the year🎉",
     icon: Camera,
